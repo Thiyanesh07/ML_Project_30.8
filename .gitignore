@@ -1,0 +1,7 @@
+nvenv/
+_pycache_/
+*.pyc
+*.pyo
+.DS_Store
+.env
+
